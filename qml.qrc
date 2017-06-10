@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MenuButton.qml</file>
+        <file>TitleText.qml</file>
+        <file>Screen.qml</file>
+        <file>MainScreen.qml</file>
+        <file>GhettoButton.qml</file>
+        <file>StorageScreen.qml</file>
+        <file>MediaControllerScreen.qml</file>
+        <file>MediaPlayerScreen.qml</file>
+        <file>BluetoothScreen.qml</file>
+        <file>Colors.qml</file>
+    </qresource>
+</RCC>
