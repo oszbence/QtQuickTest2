@@ -1,12 +1,8 @@
-import QtQuick 2.5
+import QtQuick 2.0
 import QtQuick.Controls 1.4
 import QtQuick.Dialogs 1.2
 
-/**
- * Ideas:
- * 1) Sunshine/night theme
- * 2) Icons where possible (e.g. "Back" button)
- */
+
 ApplicationWindow {
     visible: true
     width: 320
