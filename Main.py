@@ -22,6 +22,4 @@ if __name__ == "__main__":
     view = QQuickView()
     view.setSource(QUrl('main.qml'))
 
-    #rootObject = view.rootObject()
-
     sys.exit(app.exec_())
